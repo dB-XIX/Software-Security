@@ -1,25 +1,67 @@
-# Software-Security
-Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+# Software Security: Artemis Financial
 
-The client, Artemis Financial, wants to modernize their operations. They have a RESTful API and request our expertise in protecting it with the most current and effective software security methods.
+## Client Overview
+**Client**: Artemis Financial
 
-What did you do well when finding your client’s software security vulnerabilities? Why is it essential to code securely? What value does software security add to a company’s overall well-being? 
+**Objective**: The client, Artemis Financial, aims to modernize their operations and requested assistance in securing their RESTful API with the most current and effective software security methods.
 
-I was able to research and update dependencies very well. Secure Code is critical to protecting company and client information and assets. Appropriately implemented software security saves the company time and money.
+---
 
-What part of the vulnerability assessment was challenging or helpful to you?
+## Identifying Software Security Vulnerabilities
 
-The manual code review was the most challenging but rewarding to learn.
+### Strengths
+- **Dependency Management**: I excelled at researching and updating dependencies to address known vulnerabilities.
+- **Secure Coding Practices**: Ensuring code is securely written protects sensitive company and client information and assets.
 
-How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
+### Importance of Secure Code
+- Secure code is critical for safeguarding data and preventing breaches.
+- Implementing proper software security saves the company time and money by mitigating potential risks before they become costly problems.
 
-I implemented secure coding practices and utilized static testing tools like Maven Dependency Check. I will use the strategies I have learned from this class in the future.
+### Value of Software Security
+- Enhances client trust and company reputation.
+- Protects critical assets and data from potential threats.
+- Ensures compliance with industry regulations and standards.
 
-How did you ensure the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
-What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
+---
 
-I used the Vulnerability Assessment Process Flow Diagram to assess possible vulnerabilities, performed a manual code review and refactoring, and performed static testing with Maven Dependency Check. All of these tools will be helpful in the future.
+## Vulnerability Assessment
 
-Employers sometimes ask for examples of work you have completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+### Challenges and Insights
+- **Manual Code Review**:
+  - **Challenge**: Conducting a thorough manual code review was time-consuming.
+  - **Insight**: The effort was rewarding, as it provided a deeper understanding of the codebase and potential vulnerabilities.
 
-I have uploaded one of our projects for review.
+### Mitigation Techniques
+- **Layers of Security**: Implemented secure coding practices to add multiple layers of protection.
+- **Assessment Tools**: Utilized static testing tools such as Maven Dependency Check to identify and address vulnerabilities.
+- **Future Strategy**: Leverage the strategies and tools learned during this project to assess and mitigate vulnerabilities effectively.
+
+---
+
+## Ensuring Functionality and Security
+
+### Methods Used
+- **Assessment Process**:
+  - Used the Vulnerability Assessment Process Flow Diagram to systematically identify possible vulnerabilities.
+  - Conducted manual code reviews to spot issues not captured by automated tools.
+- **Testing and Validation**:
+  - Refactored code to enhance security.
+  - Performed static testing with Maven Dependency Check to ensure no new vulnerabilities were introduced.
+
+### Future Resources and Practices
+- Utilize the Vulnerability Assessment Process Flow Diagram for systematic analysis.
+- Continue using static testing tools and secure coding practices to maintain high standards in future assignments or tasks.
+
+---
+
+## Demonstrating Skills to Employers
+
+### Evidence of Skills
+- Uploaded one of the completed projects as a portfolio example to showcase:
+  - Expertise in secure coding practices.
+  - Ability to identify and address vulnerabilities effectively.
+  - Use of industry-standard tools and methods for ensuring software security and functionality.
+
+This project reflects my capability to enhance software security, protect assets, and maintain high functionality standards in professional software development.
+
+
